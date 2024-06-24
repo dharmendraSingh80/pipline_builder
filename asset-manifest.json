@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pipeline-builder/static/css/main.6674e314.css",
+    "main.js": "/pipeline-builder/static/js/main.681a5f99.js",
+    "static/js/453.6b0824fe.chunk.js": "/pipeline-builder/static/js/453.6b0824fe.chunk.js",
+    "index.html": "/pipeline-builder/index.html",
+    "main.6674e314.css.map": "/pipeline-builder/static/css/main.6674e314.css.map",
+    "main.681a5f99.js.map": "/pipeline-builder/static/js/main.681a5f99.js.map",
+    "453.6b0824fe.chunk.js.map": "/pipeline-builder/static/js/453.6b0824fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6674e314.css",
+    "static/js/main.681a5f99.js"
+  ]
+}
